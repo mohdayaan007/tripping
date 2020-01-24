@@ -1,0 +1,57 @@
+* {
+	text-align: right;
+	font-weight: italic;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-family: fantasy;
+	font-style: oblique;
+	font-weight: lighter; 
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+
+body {
+  background-image: url('backgroundimage8.png');
+  background-attachment: fixed;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+a {
+	color: white;
+	font-weight: bold;
+	position: right;
+	text-align: right;
+	font-family:'IM Fell Great Primer SC', serif;
+}
+
+p {
+	color: white;
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.btn {
+	font-weight: 700;
+	border-radius: 300px;
+}
+
+.btn-xl {
+	text-align: center;
+	font-weight: bold;
+}
+
+a {
+	font-style: italic;
+	font-weight: bold;
+}
+
+
+
